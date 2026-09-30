@@ -114,6 +114,11 @@ git push -u origin main
 打包给玩家的是 **`update-scripts` 整个文件夹**，解压到整合包目录
 （也就是含 `mods`、`config`、`kubejs` 的那一层，和 `.minecraft` 同级关系要对）。
 
+> 已经帮你打好了现成的压缩包：[`dist/All-The-Leisures-update.zip`](dist/All-The-Leisures-update.zip)，
+> 解压后就是 `update-scripts\`。你可以把它上传到群文件 / 网盘直接发给玩家。
+> `dist/` 已在 `.gitignore` 中，不会进 Git 仓库；脚本改动后重新打包即可
+> （把 `update-scripts` 文件夹重新压缩一次，注意压缩包内顶层是 `update-scripts`）。
+
 玩家只需要 **双击 `update-scripts\client\update.bat`**，脚本会：
 
 1. 从 `main` 分支下载 `pack.toml` 和 `index.toml`；
