@@ -182,6 +182,12 @@ update.bat -Proxy https://ghfast.top
 java -Xmx8G @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.241/unix_args.txt nogui
 ```
 
+> **首次需要确认一个 GitHub 设置**（否则 Action 会因为没有推送权限而失败）：
+> 仓库 → `Settings` → `Actions` → `General` → `Workflow permissions` →
+> 选择 **Read and write permissions** → `Save`。
+>
+> `server` 分支是 Action 自动生成的，**不要手动编辑**（每次构建都会强制覆盖）。
+
 ---
 
 ## 六、几条必须知道的规矩
