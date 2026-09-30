@@ -1,0 +1,32 @@
+{
+  "type": "botanypots:crop",
+  "input": {
+    "item": "kubejs:mixed_seed"
+  },
+  "soil": {
+    "tag": "botanypots:soil/sculk"
+  },
+  "grow_time": 24000,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "croptopia:peach_crop"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "kubejs:tenshis_peach",
+            "count": 1
+          },
+          "chance": 1
+        }
+      ]
+    }
+  ],
+  "yield": 1.0,
+  "yield_scale": 1.0
+}

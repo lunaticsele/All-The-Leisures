@@ -1,0 +1,282 @@
+#Allowed Values: STRETCH, SMALL, MEDIUM, LARGE, EXTRA_LARGE
+screenSize = "STRETCH"
+requireEnergy = false
+smoothScrolling = true
+debug = false
+tenthAnniversaryCape = false
+# Default: 256
+# Range: 3 ~ 256
+maxRowsStretch = 256
+searchBoxAutoSelected = false
+autocraftingNotification = true
+#Allowed Values: LIST, TREE
+autocraftingPreviewStyle = "LIST"
+
+[cable]
+	# Default: 0
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[controller]
+	# Default: 1000
+	# Range: 1 ~ 9223372036854775807
+	energyCapacity = 1000
+
+[diskDrive]
+	# Default: 10
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	energyUsagePerDisk = 0
+
+[diskInterface]
+	# Default: 6
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	energyUsagePerDisk = 0
+
+[grid]
+	largeFont = false
+	preventSortingWhileShiftIsDown = true
+	detailedTooltip = true
+	rememberSearchQuery = false
+	# Default: 10
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+	synchronizer = ""
+	resourceType = ""
+	#Allowed Values: ASCENDING, DESCENDING
+	sortingDirection = "DESCENDING"
+	#Allowed Values: QUANTITY, NAME, ID, LAST_MODIFIED
+	sortingType = "QUANTITY"
+	#Allowed Values: ALL, AUTOCRAFTABLE, NON_AUTOCRAFTABLE
+	viewType = "ALL"
+
+[craftingGrid]
+	# Default: 14
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+	#Allowed Values: NONE, CLEAR_TO_NETWORK, CLEAR_TO_INVENTORY
+	craftingMatrixCloseBehavior = "NONE"
+
+[patternGrid]
+	# Default: 14
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[storageBlock]
+	# Default: 2
+	# Range: 0 ~ 9223372036854775807
+	1kEnergyUsage = 0
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	4kEnergyUsage = 0
+	# Default: 6
+	# Range: 0 ~ 9223372036854775807
+	16kEnergyUsage = 0
+	# Default: 8
+	# Range: 0 ~ 9223372036854775807
+	64kEnergyUsage = 0
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	creativeEnergyUsage = 0
+
+[fluidStorageBlock]
+	# Default: 2
+	# Range: 0 ~ 9223372036854775807
+	64bEnergyUsage = 0
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	256bEnergyUsage = 0
+	# Default: 6
+	# Range: 0 ~ 9223372036854775807
+	1024bEnergyUsage = 0
+	# Default: 8
+	# Range: 0 ~ 9223372036854775807
+	4096bEnergyUsage = 0
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	creativeEnergyUsage = 0
+
+[importer]
+	# Default: 2
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[exporter]
+	# Default: 2
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[upgrade]
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	speedUpgradeEnergyUsage = 0
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	stackUpgradeEnergyUsage = 0
+	# Default: 10
+	# Range: 0 ~ 9223372036854775807
+	fortune1UpgradeEnergyUsage = 0
+	# Default: 12
+	# Range: 0 ~ 9223372036854775807
+	fortune2UpgradeEnergyUsage = 0
+	# Default: 14
+	# Range: 0 ~ 9223372036854775807
+	fortune3UpgradeEnergyUsage = 0
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	silkTouchUpgradeEnergyUsage = 0
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	regulatorUpgradeEnergyUsage = 0
+	# Default: 8
+	# Range: 0 ~ 9223372036854775807
+	rangeUpgradeEnergyUsage = 0
+	# Default: 0
+	# Range: 0 ~ 9223372036854775807
+	creativeRangeUpgradeEnergyUsage = 0
+	# Default: 8
+	# Range: > 0
+	rangeUpgradeRange = 0
+	# Default: 8
+	# Range: 0 ~ 9223372036854775807
+	autocraftingUpgradeUsage = 0
+
+[interface]
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[externalStorage]
+	# Default: 6
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[detector]
+	# Default: 2
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[destructor]
+	# Default: 3
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[constructor]
+	# Default: 3
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[wirelessGrid]
+	# Default: 1000
+	# Range: 1 ~ 9223372036854775807
+	energyCapacity = 1000
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	openEnergyUsage = 0
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	extractEnergyUsage = 0
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	insertEnergyUsage = 0
+
+[wirelessTransmitter]
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+	# Default: 16
+	# Range: > 0
+	baseRange = 2147483647
+
+[storageMonitor]
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[networkReceiver]
+	# Default: 8
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[networkTransmitter]
+	# Default: 32
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[portableGrid]
+	# Default: 1000
+	# Range: 1 ~ 9223372036854775807
+	energyCapacity = 1000
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	openEnergyUsage = 0
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	extractEnergyUsage = 0
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	insertEnergyUsage = 0
+
+[securityCard]
+	# Default: 2
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[fallbackSecurityCard]
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[securityManager]
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[relay]
+	# Default: 8
+	# Range: 0 ~ 9223372036854775807
+	inputNetworkEnergyUsage = 0
+	# Default: 8
+	# Range: 0 ~ 9223372036854775807
+	outputNetworkEnergyUsage = 0
+
+[autocrafter]
+	# Default: 4
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+	# Default: 2
+	# Range: 0 ~ 9223372036854775807
+	energyUsagePerPattern = 0
+
+[autocrafterManager]
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+	#Allowed Values: ALL, PATTERN_INPUTS, PATTERN_OUTPUTS, AUTOCRAFTER_NAMES
+	searchMode = "ALL"
+	#Allowed Values: VISIBLE, NOT_FULL, ALL
+	viewType = "VISIBLE"
+
+[autocraftingMonitor]
+	# Default: 16
+	# Range: 0 ~ 9223372036854775807
+	energyUsage = 0
+
+[wirelessAutocraftingMonitor]
+	# Default: 1000
+	# Range: 1 ~ 9223372036854775807
+	energyCapacity = 1000
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	openEnergyUsage = 0
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	cancelEnergyUsage = 0
+	# Default: 5
+	# Range: 0 ~ 9223372036854775807
+	cancelAllEnergyUsage = 0

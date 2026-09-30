@@ -1,0 +1,5 @@
+#VIP cookie for QQ Music, only used on server side
+vipCookie = ""
+#Max audio quality for QQ Music. LOSSLESS may cause playback stuttering with large files.
+#Allowed Values: LOSSLESS, HIGH, STANDARD
+quality = "HIGH"

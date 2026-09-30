@@ -1,0 +1,37 @@
+# ============================================================
+# 服务端【额外】排除的文件。
+# 打包服务端版本时，会把本文件的内容追加到 .packwizignore 末尾一起生效。
+# 也就是说：这里写的路径只从"服务端包"里剔除，客户端包不受影响。
+#
+# 语法和 .gitignore 一样，路径以 / 开头表示从整合包根目录算起。
+# 新增纯客户端目录时，把它加到这里。
+# ============================================================
+
+# --- KubeJS：只给客户端用的脚本和资源 ---
+/kubejs/client_scripts/
+/kubejs/assets/
+
+# --- 纯客户端 mod 的配置文件（服务端没有这些 mod，装了会报错/无用）---
+/config/fancymenu/
+/config/konkrete/
+/config/mcef/
+/config/ModernUI/
+/config/sodium/
+/config/iris/
+/config/embeddium/
+/config/oculus/
+/config/DistantHorizons.toml
+/config/InventoryHUD/
+/config/inventoryprofilesnext/
+/config/justzoom/
+/config/jade/
+/config/netmusiccanneedqq/
+/config/net_music/
+/config/customwindowtitle/
+/config/fzzy_config/
+/config/l2configs/
+
+# --- 客户端配置文件通用命名习惯（xxx-client.toml）---
+# 两条都写，确保 config\ 根目录和子目录下的都匹配
+/config/*-client.toml
+/config/**/*-client.toml

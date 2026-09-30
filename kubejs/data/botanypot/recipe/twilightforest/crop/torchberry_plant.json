@@ -1,0 +1,27 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists",
+"values":["twilightforest:torchberry_plant"]}],
+"type":"botanypots:block_derived_crop",
+"block":"twilightforest:torchberry_plant",
+"input":{"item":"twilightforest:torchberry_plant"},
+"render_options":{"rotation":"X_180"},
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "twilightforest:torchberries",
+            "count": 1
+          },
+          "chance": 1
+        },
+        {
+          "result": {
+            "id": "twilightforest:torchberry_plant",
+            "count": 1
+          },
+          "chance": 0.05
+        }
+      ]
+    }
+  ]}

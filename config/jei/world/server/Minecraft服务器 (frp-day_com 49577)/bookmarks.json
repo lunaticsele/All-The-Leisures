@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"croptopia:egg_roll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"croptopia:nether_star_cake"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

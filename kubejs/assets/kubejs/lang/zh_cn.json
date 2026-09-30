@@ -1,0 +1,36 @@
+{
+    "item.kubejs.flying_soul": "飞行大师之魂",
+    "item.kubejs.silver_chicken": "银色店员鸡",
+    "item.kubejs.golden_chicken": "金色店员鸡",
+    "item.kubejs.mixed_seed": "混合种子",
+    "item.kubejs.lich_doll": "骷髅巫毒玩偶",
+    "item.kubejs.naga_feast": "娜迦盛宴",
+    "item.kubejs.mushroom_meat": "菌生战斧牛排",
+    "item.kubejs.hydra_egg": "烬昭九头蛇之蛋",
+    "item.kubejs.totem_of_phantom": "往日幻影之图腾",
+    "item.kubejs.ur_ghast_blood_tear": "暮初血泪",
+    "item.kubejs.iceberg_princess": "冰川公主的沙拉",
+    "item.kubejs.weavers_star": "§c千§r§d巧§r§1织§r§9之§r§b星",
+    "item.kubejs.third_eye": "§4第三只眼",
+    "item.kubejs.diamond_oreberry": "钻石矿莓",
+    "item.kubejs.platinum_oreberry": "铂矿莓",
+    "item.kubejs.global_information_terminal": "全球信息终端",
+    "item.kubejs.baguette": "法棍面包",
+    "item.kubejs.ibarakasens_masu": "茨华仙的百药枡",
+    "item.kubejs.detonator": "起爆器",
+    "item.kubejs.tenshis_peach": "天子的仙桃",
+    "item.kubejs.shimmer_bucket": "微光桶",
+
+    "item.kubejs.icecream_bowl": "三色冰淇淋碗",
+    "item.kubejs.corn_ice": "玉米棍雪糕",
+    "item.kubejs.chocolate_cream": "巧克力雪糕",
+    "item.kubejs.mr_hat": "帽子先生",
+    "item.kubejs.old_ice": "老年冰棒",
+    "item.kubejs.shimmer_ice": "微光冰棍",
+    
+    "block.kubejs.diamond_berrybush": "钻石矿莓丛",
+    "block.kubejs.platinum_berrybush": "铂矿莓丛",
+
+    "block.kubejs.shimmer": "液态微光",
+    "fluid.kubejs.shimmer": "液态微光"
+}

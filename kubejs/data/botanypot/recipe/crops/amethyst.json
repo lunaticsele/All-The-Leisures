@@ -1,0 +1,39 @@
+{
+  "type": "botanypots:crop",
+  "input": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "soil": {
+    "item": "minecraft:budding_amethyst"
+  },
+  "grow_time": 3600,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "minecraft:amethyst_cluster"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "minecraft:amethyst_cluster",
+            "count": 1
+          },
+          "chance": 1
+        },
+        {
+          "result": {
+            "id": "minecraft:budding_amethyst",
+            "count": 1
+          },
+          "chance": 0.006
+        }
+      ]
+    }
+  ],
+  "yield": 1.0,
+  "yield_scale": 1.0
+}

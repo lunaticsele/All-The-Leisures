@@ -1,0 +1,26 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists",
+"values":["twilightforest:blackberry_bush"]}],
+"type":"botanypots:block_derived_crop",
+"block":"twilightforest:blackberry_bush",
+"input":{"item":"twilightforest:blackberry_bush"},
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "twilightforest:blackberry_bush",
+            "count": 1
+          },
+          "chance": 0.05
+        },
+        {
+          "result": {
+            "id": "twilightforest:blackberry",
+            "count": 1
+          },
+          "chance": 1
+        }
+      ]
+    }
+  ]}

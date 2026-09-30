@@ -1,0 +1,10 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"refinedstorage:machine_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"twilightforest:ur_ghast_trophy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"croptopia:salt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"expandeddelight:salt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extradelight:salt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"refurbished_furniture:sea_salt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tofucraft:salt"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

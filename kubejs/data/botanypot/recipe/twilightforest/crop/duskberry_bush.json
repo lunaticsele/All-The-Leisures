@@ -1,0 +1,29 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists",
+"values":["twilightforest:duskberry_bush"]}],
+"type":"botanypots:block_derived_crop",
+"block":"twilightforest:duskberry_bush",
+"input":{"item":"twilightforest:duskberry_bush"},
+"soil": {
+"item": "minecraft:netherrack"
+},
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "twilightforest:duskberry_bush",
+            "count": 1
+          },
+          "chance": 0.05
+        },
+        {
+          "result": {
+            "id": "twilightforest:duskberry",
+            "count": 1
+          },
+          "chance": 1
+        }
+      ]
+    }
+  ]}

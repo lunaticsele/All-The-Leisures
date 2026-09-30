@@ -1,0 +1,452 @@
+
+ServerEvents.tags('item', event => {
+//清除tag
+      event.remove("c:raw_dough","croptopia:dough")
+      event.remove("c:raw_dough","farmersdelight:wheat_dough")
+      event.remove("c:raw_dough","create:dough")
+      event.remove("c:foods/dough","croptopia:dough")
+      event.remove("c:foods/dough","farmersdelight:wheat_dough")
+      event.remove("c:foods/dough","create:dough")
+      event.remove("c:foods/dough","croptopia:dough")
+      event.remove("c:foods/dough","farmersdelight:wheat_dough")
+      event.remove("c:foods/dough","create:dough")
+      event.remove("c:foods","croptopia:dough")
+      event.remove("c:foods","farmersdelight:wheat_dough")
+      event.remove("c:foods","create:dough")
+//饰品
+      event.add("curios:head","aeronautics:aviators_goggles")
+//黄油
+      event.add("c:butter","croptopia:butter")
+      event.add("c:butter","extradelight:butter")
+      event.add("c:butter","youkaishomecoming:butter")
+      event.add("c:butters","croptopia:butter")
+      event.add("c:butters","extradelight:butter")
+      event.add("c:butters","youkaishomecoming:butter")
+//辣椒
+      event.add("c:red_chili","expandeddelight:chili_pepper")
+      event.add("c:red_chili","croptopia:chile_pepper")
+      event.add("c:red_chili","kaleidoscope_cookery:red_chili")
+      event.add("c:red_chili","tofucraft:chili")
+      event.add("c:red_chili","extradelight:chili")
+
+      event.add("c:chile_pepper","expandeddelight:chili_pepper")
+      event.add("c:chile_pepper","croptopia:chile_pepper")
+      event.add("c:chile_pepper","kaleidoscope_cookery:red_chili")
+      event.add("c:chile_pepper","tofucraft:chili")
+      event.add("c:chile_pepper","extradelight:chili")
+
+      event.add("c:crops/chile_pepper","expandeddelight:chili_pepper")
+      event.add("c:crops/chile_pepper","croptopia:chile_pepper")
+      event.add("c:crops/chile_pepper","kaleidoscope_cookery:red_chili")
+      event.add("c:crops/chile_pepper","tofucraft:chili")
+      event.add("c:crops/chile_pepper","extradelight:chili")
+
+      event.add("c:crops/chilipepper","expandeddelight:chili_pepper")
+      event.add("c:crops/chilipepper","croptopia:chile_pepper")
+      event.add("c:crops/chilipepper","kaleidoscope_cookery:red_chili")
+      event.add("c:crops/chilipepper","tofucraft:chili")
+      event.add("c:crops/chilipepper","extradelight:chili")  
+
+      event.add("c:chili_pepper","expandeddelight:chili_pepper")
+      event.add("c:chili_pepper","croptopia:chile_pepper")
+      event.add("c:chili_pepper","kaleidoscope_cookery:red_chili")
+      event.add("c:chili_pepper","tofucraft:chili")
+      event.add("c:chili_pepper","extradelight:chili")
+
+      event.add("c:crops/chili_pepper","expandeddelight:chili_pepper")
+      event.add("c:crops/chili_pepper","croptopia:chile_pepper")
+      event.add("c:crops/chili_pepper","kaleidoscope_cookery:red_chili")
+      event.add("c:crops/chili_pepper","tofucraft:chili")
+      event.add("c:crops/chili_pepper","extradelight:chili")
+
+      event.add("c:foods/vegetable","expandeddelight:chili_pepper")
+      event.add("c:foods/vegetable","croptopia:chile_pepper")
+      event.add("c:foods/vegetable","kaleidoscope_cookery:red_chili")
+      event.add("c:foods/vegetable","tofucraft:chili")
+      event.add("c:foods/vegetable","extradelight:chili")
+
+      event.add("c:vegetables/pepper","expandeddelight:chili_pepper")
+      event.add("c:vegetables/pepper","croptopia:chile_pepper")
+      event.add("c:vegetables/pepper","kaleidoscope_cookery:red_chili")
+      event.add("c:vegetables/pepper","tofucraft:chili")
+      event.add("c:vegetables/pepper","extradelight:chili")
+
+      event.add("extradelight:processed_chili","expandeddelight:chili_pepper")
+      event.add("extradelight:processed_chili","croptopia:chile_pepper")
+      event.add("extradelight:processed_chili","kaleidoscope_cookery:red_chili")
+      event.add("extradelight:processed_chili","tofucraft:chili")
+      event.add("extradelight:processed_chili","extradelight:chili")
+
+
+      event.add("kaleidoscope_nether:soul_pepper_transformable","kaleidoscope_nether:soul_pepper")
+      event.remove("kaleidoscope_nether:soul_pepper_transformable","kaleidoscope_cookery:red_chili")
+//奶酪
+      event.add("c:cheese","trailandtales_delight:cheese_slice")
+      event.add("c:cheese","expandeddelight:cheese_slice")
+      event.add("c:cheese","extradelight:cheese")
+      event.add("c:cheese","croptopia:cheese")
+      event.add("c:cheeses","trailandtales_delight:cheese_slice")
+      event.add("c:cheeses","expandeddelight:cheese_slice")
+      event.add("c:cheeses","extradelight:cheese")
+      event.add("c:cheeses","croptopia:cheese")
+      event.add("c:foods/cheese","trailandtales_delight:cheese_slice")
+      event.add("c:foods/cheese","expandeddelight:cheese_slice")
+      event.add("c:foods/cheese","extradelight:cheese")
+      event.add("c:foods/cheese","croptopia:cheese")
+      event.add("c:foods/cheeses","trailandtales_delight:cheese_slice")
+      event.add("c:foods/cheeses","expandeddelight:cheese_slice")
+      event.add("c:foods/cheeses","extradelight:cheese")
+      event.add("c:foods/cheeses","croptopia:cheese")
+//巧克力
+      event.add("c:chocolate","create:bar_of_chocolate")
+      event.add("c:chocolate","croptopia:chocolate")
+      event.add("c:chocolate","neapolitan:chocolate_bar")
+//米
+      event.add("c:rice","kaleidoscope_cookery:rice")
+      event.add("c:rice","croptopia:rice")
+      event.add("c:rice","farmersdelight:rice")
+      event.add("c:rice","tofucraft:rice")
+      event.add("c:grain/rice","kaleidoscope_cookery:rice")
+      event.add("c:grain/rice","croptopia:rice")
+      event.add("c:grain/rice","farmersdelight:rice")
+      event.add("c:grain/rice","tofucraft:rice")
+      event.add("minecraft:parrot_food","kaleidoscope_cookery:rice")
+      event.add("minecraft:parrot_food","croptopia:rice")
+      event.add("minecraft:parrot_food","farmersdelight:rice")
+      event.add("minecraft:parrot_food","tofucraft:rice")
+      event.add("minecraft:chicken_food","kaleidoscope_cookery:rice")
+      event.add("minecraft:chicken_food","croptopia:rice")
+      event.add("minecraft:chicken_food","farmersdelight:rice")
+      event.add("minecraft:chicken_food","tofucraft:rice")
+      event.add("c:crops/grain","kaleidoscope_cookery:rice")
+      event.add("c:crops/grain","croptopia:rice")
+      event.add("c:crops/grain","farmersdelight:rice")
+      event.add("c:crops/grain","tofucraft:rice")
+      event.add("c:food/starch","kaleidoscope_cookery:rice")
+      event.add("c:food/starch","croptopia:rice")
+      event.add("c:food/starch","farmersdelight:rice")
+      event.add("c:food/starch","tofucraft:rice")
+      event.add("c:seeds","kaleidoscope_cookery:rice")
+      event.add("c:seeds","croptopia:rice")
+      event.add("c:seeds","farmersdelight:rice")
+      event.add("c:seeds","tofucraft:rice")
+
+//食用油
+      event.add("c:cooking_oil","extradelight:cooking_oil")
+      event.add("c:cooking_oil","rusticdelight:cooking_oil")
+
+      event.add("extradelight:frying_oil","extradelight:cooking_oil")
+      event.add("extradelight:frying_oil","rusticdelight:cooking_oil")
+//面粉
+      event.add("c:flour","create:wheat_flour")
+      event.add("c:flour","extradelight:flour")
+      event.add("c:flour","croptopia:flour")
+      event.add("c:flour","kaleidoscope_cookery:flour")
+      event.add("c:flours","create:wheat_flour")
+      event.add("c:flours","extradelight:flour")
+      event.add("c:flours","croptopia:flour")
+      event.add("c:flours","kaleidoscope_cookery:flour")
+      event.add("c:flours/wheat","create:wheat_flour")
+      event.add("c:flours/wheat","extradelight:flour")
+      event.add("c:flours/wheat","croptopia:flour")
+      event.add("c:flours/wheat","kaleidoscope_cookery:flour")
+//生玉米
+      event.add("c:unshucked_corn","croptopia:corn")
+      event.add("c:unshucked_corn","extradelight:unshucked_corn")
+      event.add("extradelight:corn_dim_confiscate","croptopia:corn_husk")
+      event.add("extradelight:corn_dim_confiscate","extradelight:corn_husk")
+//稻穗
+      event.add("c:rice_panicle","farmersdelight:rice_panicle")
+      event.add("c:rice_panicle","kaleidoscope_cookery:rice_panicle")
+//洋葱
+      event.add("c:onion","farmersdelight:onion")
+      event.add("c:onion","kaleidoscope_grilling:onion")
+      event.add("c:onion","croptopia:onion")
+      event.add("c:food/onion","farmersdelight:onion")
+      event.add("c:food/onion","kaleidoscope_grilling:onion")
+      event.add("c:food/onion","croptopia:onion")
+//酱油
+      event.add("c:soy_sauce","extradelight:soy_sauce_item")
+      event.add("c:soy_sauce","tofucraft:bottle_soysause")
+      event.add("c:soy_sauce","youkaishomecoming:soy_sauce_bottle")
+      event.add("c:soy_sauce","croptopia:soy_sauce")
+      event.add("c:soy_sauces","extradelight:soy_sauce_item")
+      event.add("c:soy_sauces","tofucraft:bottle_soysause")
+      event.add("c:soy_sauces","youkaishomecoming:soy_sauce_bottle")
+      event.add("c:soy_sauces","croptopia:soy_sauce")
+      event.add("c:condiments/soy_sauce","extradelight:soy_sauce_item")
+      event.add("c:condiments/soy_sauce","tofucraft:bottle_soysause")
+      event.add("c:condiments/soy_sauce","youkaishomecoming:soy_sauce_bottle")
+      event.add("c:condiments/soy_sauce","croptopia:soy_sauce")
+//番茄
+      event.add("c:tomato","kaleidoscope_cookery:tomato")
+      event.add("c:tomato","farmersdelight:tomato")
+      event.add("c:tomato","croptopia:tomato")
+      event.add("rusticdelight:stuffed_bell_pepper_ingredients","kaleidoscope_cookery:tomato")
+      event.add("rusticdelight:stuffed_bell_pepper_ingredients","farmersdelight:tomato")
+      event.add("rusticdelight:stuffed_bell_pepper_ingredients","croptopia:tomato")
+      event.add("c:foods/tomato","kaleidoscope_cookery:tomato")
+      event.add("c:foods/tomato","farmersdelight:tomato")
+      event.add("c:foods/tomato","croptopia:tomato")
+//咖啡
+      event.add("c:coffee","rusticdelight:dark_coffee")
+      event.add("c:coffee","extradelight:coffee")
+      event.add("c:coffee","croptopia:coffee")
+      event.add("c:coffee","rusticdelight:coffee")
+//奶油
+      event.add("c:cream","youkaishomecoming:bowl_of_cream")
+      event.add("c:cream","extradelight:whipped_cream")
+      event.add("c:cream","croptopia:whipping_cream")
+//盐
+      event.add("c:salt","expandeddelight:salt")
+      event.add("c:salt","croptopia:salt")
+      event.add("c:salt","tofucraft:salt")
+      event.add("c:salt","extradelight:salt")
+      event.add("c:salts","expandeddelight:salt")
+      event.add("c:salts","croptopia:salt")
+      event.add("c:salts","tofucraft:salt")
+      event.add("c:salts","extradelight:salt")
+//生菜
+      event.add("c:lettuce","croptopia:lettuce")
+      event.add("c:lettuce","kaleidoscope_cookery:lettuce")
+//柠檬
+      event.add("c:lemon","extradelight:lemon")
+      event.add("c:lemon","croptopia:lemon")
+//生面条
+      event.add("c:raw_noodles","farmersdelight:raw_pasta")
+      event.add("c:raw_noodles","croptopia:noodle")
+      event.add("c:raw_noodles","kaleidoscope_cookery:raw_noodles")
+//卷心菜
+      event.add("c:cabbage_leaf","croptopia:cabbage")
+      event.add("c:cabbage_leaf","farmersdelight:cabbage_leaf")
+//大蒜
+      event.add("c:garlic","extradelight:garlic")
+      event.add("c:garlic","croptopia:garlic")
+//豆腐
+      event.add("c:tofu","croptopia:tofu")
+      event.add("c:tofu","youkaishomecoming:tofu")
+      event.add("c:tofu","tofucraft:tofukinu")
+//煎蛋
+      event.add("c:fried_egg","croptopia:sunny_side_eggs")
+      event.add("c:fried_egg","farmersdelight:fried_egg")
+      event.add("c:fried_egg","kaleidoscope_cookery:fried_egg")
+//碎猪肉
+      event.add("c:ground_pork","butchercraft:ground_pork")
+      event.add("c:ground_pork","croptopia:ground_pork")
+//惠灵顿牛排
+      event.add("c:beef_wellington","croptopia:beef_wellington")
+      event.add("c:beef_wellington","extradelight:beef_wellington")
+//布朗尼蛋糕
+      event.add("c:brownie","croptopia:brownies")
+      event.add("c:brownie","extradelight:brownie")
+//培根
+      event.add("c:bacon","croptopia:bacon")
+      event.add("c:bacon","farmersdelight:bacon")
+//熟培根
+      event.add("c:cooked_bacon","croptopia:cooked_bacon")
+      event.add("c:cooked_bacon","farmersdelight:cooked_bacon")
+//米饭
+      event.add("c:cooked_rice","farmersdelight:cooked_rice")
+      event.add("c:cooked_rice","croptopia:steamed_rice")
+      event.add("c:cooked_rice","kaleidoscope_cookery:cooked_rice")
+//红薯
+      event.add("c:sweet_potato","croptopia:sweetpotato")
+      event.add("c:sweet_potato","kaleidoscope_grilling:sweet_potato")
+      event.add("c:sweet_potato","expandeddelight:sweet_potato")
+      event.add("kaleidoscope_grilling:ingredients/sweet_potatoes","croptopia:sweetpotato")
+      event.add("kaleidoscope_grilling:ingredients/sweet_potatoes","kaleidoscope_grilling:sweet_potato")
+      event.add("kaleidoscope_grilling:ingredients/sweet_potatoes","expandeddelight:sweet_potato")
+//花生
+      event.add("c:peanuts","extradelight:peanuts")
+      event.add("c:peanuts","expandeddelight:peanut")
+      event.add("c:peanuts","croptopia:peanut")
+//烤红薯
+      event.add("c:baked_sweet_potato","expandeddelight:baked_sweet_potato")
+      event.add("c:baked_sweet_potato","kaleidoscope_grilling:roasted_sweet_potato")
+//花生酱
+      event.add("c:peanut_butter","expandeddelight:peanut_butter")
+      event.add("c:peanut_butter","croptopia:peanut_butter")
+//汉堡
+      event.add("c:hamburger","croptopia:hamburger")
+      event.add("c:hamburger","farmersdelight:hamburger")
+//薯片
+      event.add("c:potato_chips","extradelight:potato_chips")
+      event.add("c:potato_chips","croptopia:potato_chips")
+//面团
+
+      event.add("c:raw_dough","kaleidoscope_cookery:raw_dough")
+      event.add("c:foods/dough","kaleidoscope_cookery:raw_dough")
+      event.add("c:foods/dough","kaleidoscope_cookery:raw_dough")
+//蓝莓
+      event.add("c:blueberries","croptopia:blueberry")
+      event.add("c:blueberries","biomeswevegone:blueberries")
+      event.add("c:blueberries","twilightforest:blueberry")
+//馒头
+      event.add("c:mantou","youkaishomecoming:mantou")
+      event.add("c:mantou","kaleidoscope_cookery:mantou")
+//蛤蜊
+      event.add("c:clam","croptopia:clam")
+      event.add("c:clam","crabbersdelight:clam")
+//黄甜椒
+      event.add("c:bell_pepper_yellow","rusticdelight:bell_pepper_yellow")
+      event.add("c:bell_pepper_yellow","croptopia:bellpepper")
+//
+      event.add("c:asparagus","croptopia:asparagus")
+      event.add("c:asparagus","expandeddelight:asparagus")
+//芝士汉堡
+      event.add("c:cheeseburger","croptopia:cheeseburger")
+      event.add("c:cheeseburger","extradelight:cheeseburger")
+//虾
+      event.add("c:shrimp","crabbersdelight:shrimp")
+      event.add("c:shrimp","croptopia:shrimp")
+      event.add("c:cooked_shrimp","crabbersdelight:cooked_shrimp")
+      event.add("c:cooked_shrimp","croptopia:cooked_shrimp")
+
+      event.add("c:shepherds_pie","croptopia:shepherds_pie")
+      event.add("c:shepherds_pie","farmersdelight:shepherds_pie")
+//包子
+      event.add("c:bun","youkaishomecoming:bun")
+      event.add("c:bun","kaleidoscope_cookery:baozi")
+//绿咖啡豆
+      event.add("c:green_coffee_bean","youkaishomecoming:green_coffee_bean")
+      event.add("c:green_coffee_bean","rusticdelight:coffee_beans")
+      event.add("c:green_coffee_bean","extradelight:green_coffee")
+//烤咖啡豆
+      event.add("c:coffee_beans","rusticdelight:roasted_coffee_beans")
+      event.add("c:coffee_beans","youkaishomecoming:coffee_beans")
+      event.add("c:coffee_beans","extradelight:coffee_beans")
+      event.add("c:coffee_beans","croptopia:coffee_beans")
+//咖啡粉
+      event.add("c:coffee_powder","youkaishomecoming:coffee_powder")
+      event.add("c:coffee_powder","extradelight:ground_coffee")
+//冰块
+      event.add("c:ice_cube","youkaishomecoming:ice_cube")
+      event.add("c:ice_cube","extradelight:ice_cubes")
+//草莓
+      event.add("c:strawberries","croptopia:strawberry")
+      event.add("c:strawberries","neapolitan:strawberries")
+//香草
+      event.add("c:vanilla","croptopia:vanilla")
+      event.add("c:vanilla","neapolitan:dried_vanilla_pods")
+      event.add("c:vanillas","croptopia:vanilla")
+      event.add("c:vanillas","neapolitan:dried_vanilla_pods")
+//螃蟹
+      event.add("c:crab","croptopia:crab")
+      event.add("c:crab","crabbersdelight:crab")
+//橘子
+      event.add("c:orange","extradelight:orange")
+      event.add("c:orange","croptopia:orange")
+//菠萝
+      event.add("c:pineapple","croptopia:pineapple")
+      event.add("c:pineapple","pineapple_delight:pineapple")
+//葡萄
+      event.add("c:grape","kaleidoscope_tavern:grape")
+      event.add("c:grape","croptopia:grape")
+//大豆
+      event.add("c:seeds_soybeans","tofucraft:seeds_soybeans")
+      event.add("c:seeds_soybeans","extradelight:soybeans")
+      event.add("c:seeds_soybeans","croptopia:soybean")
+
+      event.add("c:lettuce_rice","croptopia:lettuce_rice")
+      event.add("c:pepper","croptopia:pepper")
+
+
+  
+
+
+
+    
+      event.add("c:raw_ender_dragon_meat","kaleidoscope_end:raw_ender_dragon_meat")
+      event.add("c:raw_ender_dragon_meat","ends_delight:raw_dragon_meat")
+    
+      event.add("c:cooked_ender_dragon_meat","kaleidoscope_end:cooked_ender_dragon_meat")
+      event.add("c:cooked_ender_dragon_meat","ends_delight:roasted_dragon_meat")
+    
+      event.add("c:raw_endermite_meat","ends_delight:raw_ender_mite_meat")
+      event.add("c:raw_endermite_meat","kaleidoscope_end:raw_endermite_meat")
+    
+      event.add("c:roasted_endermite_meat","ends_delight:dried_endermite_meat")
+      event.add("c:roasted_endermite_meat","kaleidoscope_end:roasted_endermite_meat")
+    
+      event.add("c:tomato_seeds","farmersdelight:tomato_seeds")
+      event.add("c:tomato_seeds","croptopia:tomato_seed")
+      event.add("c:tomato_seeds","kaleidoscope_cookery:tomato_seed")
+    
+      event.add("c:chili_seed","expandeddelight:chili_pepper_seeds")
+      event.add("c:chili_seed","extradelight:chili_seeds")
+      event.add("c:chili_seed","tofucraft:seeds_chili")
+      event.add("c:chili_seed","croptopia:chile_pepper_seed")
+      event.add("c:chili_seed","kaleidoscope_cookery:chili_seed")
+    
+      event.add("c:oil","kaleidoscope_cookery:oil")
+      event.add("c:oil","butchercraft:lard")
+    
+      event.add("c:milk_bottle","neapolitan:milk_bottle")
+      event.add("c:milk_bottle","croptopia:milk_bottle")
+      event.add("c:foods/milk","neapolitan:milk_bottle")
+      event.add("c:foods/milk","croptopia:milk_bottle")
+      event.add("c:foods/milk","minecraft:milk_bucket")
+    
+      event.add("c:blackberry","croptopia:blackberry")
+      event.add("c:blackberry","twilightforest:blackberry")
+    
+      event.add("c:raspberry","croptopia:raspberry")
+      event.add("c:raspberry","twilightforest:raspberry")
+    
+      event.add("c:cranberries","croptopia:cranberry")
+      event.add("c:cranberries","expandeddelight:cranberries")
+//核桃
+      event.add("c:walnut","ecologics:walnut")
+      event.add("c:walnut","croptopia:walnut")
+//椰子片
+      event.add("c:coconut_slice","ecologics:coconut_slice")
+      event.add("c:coconut_slice","croptopia:coconut")
+      event.add("c:coconuts","ecologics:coconut_slice")
+      event.add("c:coconuts","croptopia:coconut")
+      event.add("c:coconut_slice","crabbersdelight:coconut_halve")
+      event.add("c:coconuts","crabbersdelight:coconut_halve")
+//杏子
+      event.add("c:apricot","tofucraft:apricot")
+      event.add("c:apricot","croptopia:apricot")
+//樱桃
+      event.add("c:cherry","vinery:cherry")
+      event.add("c:cherry","croptopia:cherry")
+//黄瓜
+      event.add("c:cucumber","croptopia:cucumber")
+      event.add("c:cucumber","extradelight:cucumber")
+//茶叶
+      event.add("c:tea_leaves","youkaishomecoming:tea_leaves")
+      event.add("c:tea_leaves","croptopia:tea_leaves")
+//香蕉
+      event.add("c:banana","croptopia:banana")
+      event.add("c:banana","neapolitan:banana")
+//肉桂
+      event.add("c:cinnamon","croptopia:cinnamon")
+      event.add("c:cinnamon","expandeddelight:cinnamon_stick")
+      event.add("c:cinnamon","extradelight:cinnamon_bark")
+
+      event.add("c:redbean","youkaishomecoming:redbean")
+      event.add("c:redbean","croptopia:redbean")
+
+//钻石矿莓
+
+event.add("c:gems","kubejs:diamond_oreberry")
+event.add("twilightforest:portal/activator","kubejs:diamond_oreberry")
+event.add("minecraft:gem_type/diamond","kubejs:diamond_oreberry")
+event.add("c:gems/diamond","kubejs:diamond_oreberry")
+event.add("minecraft:beacon_payment_items","kubejs:diamond_oreberry")
+event.add("terralith:spire/diamond","kubejs:diamond_oreberry")
+event.add("minecraft:trim_materials","kubejs:diamond_oreberry")
+
+//机械外壳
+event.add("create:wrench_pickup","refinedstorage:machine_casing")
+//炽铁相关
+event.add("minecraft:mineable/pickaxe","kaleidoscope_twilight:fiery_stockpot")
+event.add("minecraft:needs_stone_tool","kaleidoscope_twilight:fiery_stockpot")
+
+event.add("minecraft:mineable/pickaxe","kaleidoscope_twilight:fiery_pot")
+event.add("minecraft:needs_stone_tool","kaleidoscope_twilight:fiery_pot")
+//飞行
+event.add("curios:charm","kubejs:flying_soul")
+
+})

@@ -1,0 +1,39 @@
+{
+  "type": "botanypots:crop",
+  "input": {
+    "item": "minecraft:chorus_fruit"
+  },
+  "soil": {
+    "item": "minecraft:end_stone"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "minecraft:chorus_plant"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "minecraft:chorus_fruit",
+            "count": 1
+          },
+          "chance": 1
+        },
+        {
+          "result": {
+            "id": "kaleidoscope_end:end_caterpillar",
+            "count": 1
+          },
+          "chance": 0.01
+        }
+      ]
+    }
+  ],
+  "yield": 1.0,
+  "yield_scale": 1.0
+}

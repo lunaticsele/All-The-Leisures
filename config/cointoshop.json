@@ -1,0 +1,536 @@
+{
+  "categories": [
+    {
+      "id": "category_1",
+      "icon": "createaddition:modular_accumulator",
+      "tooltip": "家电(和一些奇怪的东西)",
+      "trades": [
+        {
+          "offerId": "ordertocook:motorcycle",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "ordertocook:dishwasher",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "createaddition:modular_accumulator",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 5
+        },
+        {
+          "offerId": "createaddition:tesla_coil",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "createaddition:alternator",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 15
+        },
+        {
+          "offerId": "simulated:red_portable_engine",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 5
+        },
+        {
+          "offerId": "create:cuckoo_clock",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "create:stressometer",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "create:speedometer",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "aeroworks:gyroscope",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 15
+        },
+        {
+          "offerId": "create:extendo_grip",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 5
+        },
+        {
+          "offerId": "create:potato_cannon",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 7
+        }
+      ]
+    },
+    {
+      "id": "category_2",
+      "icon": "create:precision_mechanism",
+      "tooltip": "售卖机械材料的五金店",
+      "trades": [
+        {
+          "offerId": "simulated:gyroscopic_mechanism",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 4
+        },
+        {
+          "offerId": "create:precision_mechanism",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 5
+        },
+        {
+          "offerId": "simulated:engine_assembly",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "create:brass_hand",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "create:whisk",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "create:propeller",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "create:electron_tube",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 4
+        },
+        {
+          "offerId": "createaddition:capacitor",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 4
+        },
+        {
+          "offerId": "createaddition:copper_spool",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 3
+        }
+      ]
+    },
+    {
+      "id": "category_3",
+      "icon": "minecraft:budding_amethyst",
+      "tooltip": "昂贵物品商店",
+      "trades": [
+        {
+          "offerId": "minecraft:budding_amethyst",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "refinedstorage:4096b_fluid_storage_part",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "refinedstorage:64k_storage_part",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "botanypotstiers:ultra_upgrade",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "sophisticatedstorage:basic_to_netherite_tier_upgrade",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "sophisticatedbackpacks:stack_upgrade_omega_tier",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "sophisticatedstorage:stack_upgrade_omega_tier",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "kaleidoscope_end:ender_dragon_smithing_template",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:netherite_upgrade_smithing_template",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "botanypotstiers:mega_upgrade",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 5
+        },
+        {
+          "offerId": "kubejs:mixed_seed",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "constructionstick:template_unbreakable",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "kaleidoscope_end:void_conch",
+          "offerCount": 1,
+          "costId": "create_currency_shops:gold_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:elytra",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "kaleidoscope_nether:star_dust",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "kaleidoscope_end:dragon_dust",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "kubejs:shimmer_bucket",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 3
+        }
+      ]
+    },
+    {
+      "id": "category_4",
+      "icon": "waystones:blank_scroll",
+      "tooltip": "小玩具商店",
+      "trades": [
+        {
+          "offerId": "kubejs:ibarakasens_masu",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "kubejs:baguette",
+          "offerCount": 1,
+          "costId": "create_currency_shops:brass_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "kubejs:silver_chicken",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "kubejs:third_eye",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "kubejs:global_information_terminal",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "kubejs:detonator",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 3
+        },
+        {
+          "offerId": "kubejs:flying_soul",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        }
+      ]
+    },
+        {
+        "id": "category_5",
+        "icon": "adorablehamsterpets:hamster_spawn_egg",
+        "tooltip": "刷怪蛋",
+        "trades": [
+        {
+          "offerId": "adorablehamsterpets:hamster_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:zombie_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:bee_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:blaze_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:breeze_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:chicken_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:cow_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:creeper_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:enderman_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:evoker_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:magma_cube_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:ghast_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:skeleton_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:mooshroom_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:pig_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:piglin_brute_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:spider_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "twilightforest:quest_ram_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:frog_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:goat_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:rabbit_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:sheep_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:shulker_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:slime_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:sniffer_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        },
+        {
+          "offerId": "minecraft:turtle_spawn_egg",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 1
+        }
+    ]},
+        {
+        "id": "category_6",
+        "icon": "createpropulsion:creative_vector_thruster",
+        "tooltip": "创造物品商店",
+        "trades": [
+        {
+          "offerId": "createpropulsion:creative_vector_thruster",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "create_submarine:creative_oxygenator",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "create:creative_motor",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "create:creative_blaze_cake",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "createaddition:creative_energy",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "aeronautics_utility_objects:creative_hydraulic_rod",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "createpropulsion:creative_thruster",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "create_aeronautics_toolgun:creative_magnetic_gun",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "simulated:creative_physics_staff",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 10
+        },
+        {
+          "offerId": "refinedstorage:creative_storage_disk",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 25
+        },
+        {
+          "offerId": "refinedstorage:creative_fluid_storage_disk",
+          "offerCount": 1,
+          "costId": "create_currency_shops:netherite_coin",
+          "costCount": 25
+        }
+    ]}
+  ]
+}

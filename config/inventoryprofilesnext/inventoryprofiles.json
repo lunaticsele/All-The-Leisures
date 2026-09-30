@@ -1,0 +1,19 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "inventory_overlay_buttons_visible": {
+            "value": false
+        },
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "main": {
+                "keys": "KP_SUBTRACT"
+            },
+            "value": false
+        }
+    }
+}

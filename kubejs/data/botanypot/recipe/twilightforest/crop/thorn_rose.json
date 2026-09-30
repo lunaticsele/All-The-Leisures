@@ -1,0 +1,19 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists",
+"values":["twilightforest:thorn_rose"]}],
+"type":"botanypots:block_derived_crop",
+"block":"twilightforest:thorn_rose",
+"input":{"item":"twilightforest:thorn_rose"},
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "twilightforest:thorn_rose",
+            "count": 1
+          },
+          "chance": 1
+        }
+      ]
+    }
+  ]}

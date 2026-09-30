@@ -1,0 +1,987 @@
+{
+	"items": [
+		{
+			"item": "kaleidoscope_tavern:sherry",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:polaris_sweet_white",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:mother_snow",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:ice_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:lafite_1982",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:carignan",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:brandy",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:champagne",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:sakura_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:jack_daniel",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_champagne",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_brandy",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_carignan",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:hunter_drink",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:eternal_night_crimson",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:courtyard_blood_brew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:sinmark_crimson",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bombay_sapphire_gin",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:miners_star",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:honey_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:madame_shexiang",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:sunset_glow",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:sauvignon_blanc_dry_white",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:riesling_dry_white",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:luminous_bride",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:glowflower_brew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:plum_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:sweet_berry_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:red_queen",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:whiskey",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:rum",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_grape_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_whiskey",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_sakura_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:twilight_dew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:cave_firefly_brew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:cola",
+			"hunger": 2
+		},
+		{
+			"item": "kaleidoscope_twilight:thorn_heart",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:druid_secret_brew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:glowing_night_bird_song",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:giant_spirit",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:glacier_frost_dew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:nature_spirit",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:sour_plum",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:cool_tea",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bamboo_leaf_green_liquor",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bacardi_carta_blanca",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:smirnoff_red_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:absolut_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:pina_colada",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:maotai",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:spiryt_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:skyy_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:johnnie_walker",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:strongbow",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:dassai",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:kwas_chlebowy",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:deer_song",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:ember_eye",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:magic_bean_brew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:ice_crystal_frost_dew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:snake_skin_liquor",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_twilight:witchcraft_secret_brew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=1"
+		},
+		{
+			"item": "kaleidoscope_tavern:sherry",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:polaris_sweet_white",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:mother_snow",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:ice_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:lafite_1982",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:carignan",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:brandy",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:champagne",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:sakura_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:jack_daniel",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_champagne",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_vodka",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_brandy",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_carignan",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:hunter_drink",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:eternal_night_crimson",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:courtyard_blood_brew",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:sinmark_crimson",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bombay_sapphire_gin",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:miners_star",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:honey_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:madame_shexiang",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:sunset_glow",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:sauvignon_blanc_dry_white",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:riesling_dry_white",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:luminous_bride",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:glowflower_brew",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:plum_wine",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:sweet_berry_wine",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:red_queen",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:whiskey",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:rum",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_grape_wine",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_whiskey",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_sakura_wine",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:twilight_dew",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:cave_firefly_brew",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:thorn_heart",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:druid_secret_brew",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:glowing_night_bird_song",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:giant_spirit",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:glacier_frost_dew",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:nature_spirit",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:sour_plum",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:cool_tea",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bamboo_leaf_green_liquor",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bacardi_carta_blanca",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:smirnoff_red_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:absolut_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:pina_colada",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:maotai",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:spiryt_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:skyy_vodka",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:johnnie_walker",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:strongbow",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:dassai",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:kwas_chlebowy",
+			"hunger": 1,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:deer_song",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:ember_eye",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:magic_bean_brew",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:ice_crystal_frost_dew",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:snake_skin_liquor",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_twilight:witchcraft_secret_brew",
+			"hunger": 2,
+			"nbt_data": "kaleidoscope_tavern:brew_level=2"
+		},
+		{
+			"item": "kaleidoscope_tavern:sherry",
+			"hunger": 17,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:polaris_sweet_white",
+			"hunger": 14,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:mother_snow",
+			"hunger": 6,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:ice_wine",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:lafite_1982",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:carignan",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:brandy",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:champagne",
+			"hunger": 6,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:sakura_wine",
+			"hunger": 6,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:wine",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:jack_daniel",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_champagne",
+			"hunger": 11,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_vodka",
+			"hunger": 10,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_brandy",
+			"hunger": 10,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_carignan",
+			"hunger": 10,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:hunter_drink",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:eternal_night_crimson",
+			"hunger": 12,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:courtyard_blood_brew",
+			"hunger": 19,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:sinmark_crimson",
+			"hunger": 15,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bombay_sapphire_gin",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:miners_star",
+			"hunger": 9,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:honey_wine",
+			"hunger": 7,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:madame_shexiang",
+			"hunger": 7,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:sunset_glow",
+			"hunger": 9,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:sauvignon_blanc_dry_white",
+			"hunger": 10,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:riesling_dry_white",
+			"hunger": 11,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:luminous_bride",
+			"hunger": 9,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:glowflower_brew",
+			"hunger": 8,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:plum_wine",
+			"hunger": 8,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:sweet_berry_wine",
+			"hunger": 7,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:red_queen",
+			"hunger": 8,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:vodka",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:whiskey",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_tavern:rum",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_grape_wine",
+			"hunger": 9,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_whiskey",
+			"hunger": 10,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_bloodwine:blood_sakura_wine",
+			"hunger": 10,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:twilight_dew",
+			"hunger": 12,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:cave_firefly_brew",
+			"hunger": 6,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:cola",
+			"hunger": 2,
+		},
+		{
+			"item": "kaleidoscope_twilight:thorn_heart",
+			"hunger": 17,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:druid_secret_brew",
+			"hunger": 13,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:glowing_night_bird_song",
+			"hunger": 14,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:giant_spirit",
+			"hunger": 7,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:glacier_frost_dew",
+			"hunger": 20,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:nature_spirit",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:sour_plum",
+			"hunger": 6,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:cool_tea",
+			"hunger": 14,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bamboo_leaf_green_liquor",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:bacardi_carta_blanca",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:smirnoff_red_vodka",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:absolut_vodka",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:pina_colada",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:maotai",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:spiryt_vodka",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:skyy_vodka",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:johnnie_walker",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:strongbow",
+			"hunger": 4,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:dassai",
+			"hunger": 3,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_world_liquor:kwas_chlebowy",
+			"hunger": 5,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:deer_song",
+			"hunger": 10,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:ember_eye",
+			"hunger": 17,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:magic_bean_brew",
+			"hunger": 16,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:ice_crystal_frost_dew",
+			"hunger": 9,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:snake_skin_liquor",
+			"hunger": 20,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		},
+		{
+			"item": "kaleidoscope_twilight:witchcraft_secret_brew",
+			"hunger": 9,
+			"nbt_data": "kaleidoscope_tavern:brew_level=3"
+		}
+	]
+}

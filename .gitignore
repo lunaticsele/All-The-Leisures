@@ -1,0 +1,15 @@
+# packwiz 二进制文件：只在你本机使用，不要提交（12MB，且 Windows/Linux 不通用）
+/packwiz.exe
+
+# packwiz 的缓存目录
+/.packwiz-cache/
+
+# 打包输出
+/dist/
+
+# Windows / 编辑器产生的临时文件
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+logs/

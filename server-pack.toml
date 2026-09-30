@@ -1,0 +1,10 @@
+name = "All The Leisures (Server)"
+author = "lunaticsele"
+version = "1.0.0"
+description = "All The Leisures 鏁村悎鍖?- 鏈嶅姟绔洿鏂板寘 (宸插墧闄ょ函瀹㈡埛绔枃浠?"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index-server.toml"
+hash-format = "sha256"
+hash = "b1592b0b2883e0f0cc3ab2541100933a0e0810f71c39dbf6a9e4d18e7f951150"

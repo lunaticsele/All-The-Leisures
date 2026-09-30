@@ -1,0 +1,29 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists",
+"values":["twilightforest:blightberry_bush"]}],
+"type":"botanypots:block_derived_crop",
+"block":"twilightforest:blightberry_bush",
+"input":{"item":"twilightforest:blightberry_bush"},
+"soil": {
+"item": "minecraft:netherrack"
+},
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "twilightforest:blightberry_bush",
+            "count": 1
+          },
+          "chance": 0.05
+        },
+        {
+          "result": {
+            "id": "twilightforest:blightberry",
+            "count": 1
+          },
+          "chance": 1
+        }
+      ]
+    }
+  ]}

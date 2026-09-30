@@ -1,0 +1,29 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists",
+"values":["twilightforest:stingberry_bush"]}],
+"type":"botanypots:block_derived_crop",
+"block":"twilightforest:stingberry_bush",
+"input":{"item":"twilightforest:stingberry_bush"},
+"soil": {
+"item": "minecraft:netherrack"
+},
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "twilightforest:stingberry_bush",
+            "count": 1
+          },
+          "chance": 0.05
+        },
+        {
+          "result": {
+            "id": "twilightforest:stingberry",
+            "count": 1
+          },
+          "chance": 1
+        }
+      ]
+    }
+  ]}

@@ -1,0 +1,17 @@
+{
+  "type": "botanypots:pot_interaction",
+  "held_item": {
+    "item": "twilightforest:carminite"
+  },
+  "soil_item": {
+    "item": "twilightforest:maloberry_bush"
+  },
+  "new_soil": {
+    "id": "twilightforest:blightberry_bush",
+    "count": 1
+  },
+  "sound_effect": {
+    "id": "minecraft:block.fire.extinguish",
+    "category": "BLOCKS"
+  }
+}

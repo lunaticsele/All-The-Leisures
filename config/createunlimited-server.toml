@@ -1,0 +1,76 @@
+#.
+#Realism, what's that?
+[trains]
+	#.
+	#Whether to check for valid placement when placing train tracks
+	#Allowed Values: ON, SURVIVAL_ONLY, OFF
+	placementChecks = "ON"
+	#.
+	#The minimum turn that trains can drive on. Set to 0.01 if buggy.
+	# Default: 0.875
+	# Range: 0.0 ~ 0.875
+	extendedDriving = 0.875
+	#.
+	#Maximum distance a train can be relocated using the wrench.
+	# Default: 24.0
+	# Range: 0.0 ~ 3.4028234663852886E38
+	maxTrainRelocationDistance = 24.0
+	#.
+	#Maximum stress from couplings before train derails. Set to -1 to disable stress completely.
+	# Default: 0.5
+	# Range: -1.0 ~ 3.4028234663852886E38
+	maxAllowedStress = 0.5
+	#.
+	#Whether to check for valid assembly when placing train tracks
+	trainAssemblyChecks = true
+	#.
+	#Maximum distance a track-targeting block can be placed away from a track.
+	# Default: 16.0
+	# Range: 0.0 ~ 3.4028234663852886E38
+	maxTrackBlockPlacingDistance = 16.0
+
+#.
+#Stick anything together!
+[glue]
+	#.
+	#Maximum distance between two blocks for them to be considered for glue connections.
+	# Default: 24.0
+	# Range: 0.0 ~ 3.4028234663852886E38
+	maxGlueConnectionRange = 24.0
+
+#.
+#Extend even more!
+[extendo]
+	#.
+	#How much to extend your reach when holding an Extendo-Grip. Adds to your base reach.
+	# Default: 3.0
+	# Range: 0.0 ~ 3.4028234663852886E38
+	singleExtendoGripRange = 3.0
+	#.
+	#How much to extend your reach when holding two Extendo-Grips. Adds to your base reach.
+	# Default: 5.0
+	# Range: 0.0 ~ 3.4028234663852886E38
+	doubleExtendoGripRange = 5.0
+
+#.
+#Everything else
+[misc]
+	#.
+	#Whether to check for valid connections when connecting chain conveyors.
+	chainConveyorConnectionLimits = true
+	#.
+	#Whether or not to allow all blocks to be inserted into Copycat blocks.
+	allowAllCopycatBlocks = false
+	#.
+	#Whether to allow contraptions to move any block.
+	allowContraptionMoveAll = false
+	#.
+	#Maximum allowed rotation flicker (start/stop churn) for any Kinetic Block. Set to 0 to disable flicker checks.
+	# Default: 128
+	# Range: > 0
+	maxFlickerScore = 128
+	#.
+	#Maximum movement speed for Mechanical Arms.
+	# Default: 256
+	# Range: 0 ~ 1024
+	maxArmSpeed = 256

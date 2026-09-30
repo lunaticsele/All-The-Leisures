@@ -1,0 +1,8 @@
+#Default provider for the NetMusic CD burner
+#Allowed Values: NETEASE, QQ
+defaultProvider = "NETEASE"
+#VIP cookie for QQ Music
+vipCookie = ""
+#Max audio quality for QQ Music. LOSSLESS may cause playback stuttering with large files.
+#Allowed Values: LOSSLESS, HIGH, STANDARD
+quality = "HIGH"

@@ -1,0 +1,12 @@
+# 关键设置：禁止 Git 自动转换换行符。
+# 原因：packwiz 用 SHA256 校验每个文件，只要有一个字节不同，
+# 玩家/服务器的文件就会被判定为"必须重新下载"。
+# 如果 Git 在 Windows 上把 LF 换成 CRLF，所有人的哈希都会对不上，更新会一直重复下载。
+* -text
+
+# 二进制文件明确标记（避免 diff 干扰）
+*.exe   binary
+*.jar   binary
+*.png   binary
+*.ogg   binary
+*.zip   binary

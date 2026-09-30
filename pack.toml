@@ -1,0 +1,14 @@
+name = "All The Leisures"
+author = "lunaticsele"
+version = "1.0.0"
+description = "All The Leisures 鏁村悎鍖?- 瀹㈡埛绔洿鏂板寘 (config / kubejs / scripts)"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f0162abb73509a6561c1b501541d6a0f94ed2317498869eff4ef91b7ed58003b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.241"

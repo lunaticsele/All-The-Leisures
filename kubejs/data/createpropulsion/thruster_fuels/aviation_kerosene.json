@@ -1,0 +1,5 @@
+{
+    "fluid": "aeroengineering:aviation_kerosene",
+    "thrust_multiplier": 1.25,
+    "consumption_multiplier": 0.85
+}

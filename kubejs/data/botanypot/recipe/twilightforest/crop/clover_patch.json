@@ -1,0 +1,19 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists",
+"values":["twilightforest:clover_patch"]}],
+"type":"botanypots:block_derived_crop",
+"block":"twilightforest:clover_patch",
+"input":{"item":"twilightforest:clover_patch"},
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "twilightforest:clover_patch",
+            "count": 1
+          },
+          "chance": 1
+        }
+      ]
+    }
+  ]}

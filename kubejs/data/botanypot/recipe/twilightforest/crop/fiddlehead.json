@@ -1,0 +1,19 @@
+{"bookshelf:load_conditions":[{"type":"bookshelf:block_exists",
+"values":["twilightforest:fiddlehead"]}],
+"type":"botanypots:block_derived_crop",
+"block":"twilightforest:fiddlehead",
+"input":{"item":"twilightforest:fiddlehead"},
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "twilightforest:fiddlehead",
+            "count": 1
+          },
+          "chance": 1
+        }
+      ]
+    }
+  ]}

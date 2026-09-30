@@ -1,0 +1,70 @@
+name: 构建服务端更新分支 (server)
+
+# =====================================================================
+#  作用：每次你 push 到 main 之后，GitHub 会在这里自动重建服务端索引，
+#        并把它推送到 server 分支。
+#
+#  玩家/服务端只需要认这两个地址：
+#    客户端: .../main/pack.toml
+#    服务端: .../server/pack.toml
+#
+#  你平时完全不用管这个文件，只要保持 main 分支的 index.toml 是新的
+#  （推之前跑一次 tools/build.ps1）。
+# =====================================================================
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-server-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出 main 分支
+        uses: actions/checkout@v4
+
+      - name: 安装 Go 与 packwiz
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+          cache: false
+      - run: go install github.com/packwiz/packwiz@latest
+      - run: echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+
+      - name: 准备独立输出目录
+        run: |
+          rm -rf /tmp/packroot
+          mkdir -p /tmp/packroot
+          cp -r . /tmp/packroot/
+          rm -rf /tmp/packroot/.git /tmp/packroot/.github /tmp/packroot/tools
+          cd /tmp/packroot
+          cat server.packwizignore >> .packwizignore
+          cp server-pack.toml pack.toml
+          grep -v '^file = "index-server.toml"' index-server.toml > tmp-index \
+            && mv tmp-index index.toml
+          sed -i '/^file = "index.toml"$/,/^hash = /{/^hash = /s/.*/hash = ""/}' pack.toml
+          rm -f index-server.toml server-pack.toml server.packwizignore
+
+      - name: 重建服务端索引
+        run: |
+          cd /tmp/packroot
+          packwiz refresh
+
+      - name: 统计文件数
+        run: |
+          echo "服务端文件数: $(grep -c '^file = ' /tmp/packroot/index.toml)"
+
+      - name: 推送到 server 分支
+        run: |
+          set -e
+          cd /tmp/packroot
+          git init -q -b server
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "server pack: ${GITHUB_SHA::7}"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" server:server
